@@ -1,0 +1,10 @@
+1001,Kevin Mutebi,Computer Science,85
+1002,Reagan Mubiru,Information Technology,72
+1003,James Ssemusu,Software Engineering,90
+1004,Doreen Namubiru,Computer Science,65
+1005,Tian Juliana,Information Technology,78
+1006,Rodney Kirabo,Software Engineering,55
+1007,Rollyn Miiro,Computer Science,95
+1008,Gertrude Nakasi,Information Technology,48
+1009,Stephen Kasozi,Software Engineering,82
+1010,Sarah Atim,Computer Science,69
